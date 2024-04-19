@@ -10,3 +10,16 @@ COMO BAIXAR O VSCODE:
 2. Após ter carregado o site, clique em "Download for Windows"
 * Caso o navegador perguntar onde quer salvar o instalador, salve em "Downloads", caso não pergunte ignore essa etapa.
 * Caso o Instalador não baixe automaticamente, clique no botão "direct download link", caso se baixou corretamente, ignore essa etapa.
+
+COMO INSTALAR O VSCODE:
+1. Abra o instalador na pasta Downloads entitulado de "VSCodeUserSetup-x64-1.88.1.exe", sendo o "VSCodeUserSetup" e a versão "1.88.1" no final por exemplo.
+2. Quando abrir ele ira perguntar se você concorda com o Acordo de Licença. Marque a caixinha de "Eu aceito o acordo".
+3. O instalador irá perguntar onde você quer instalar o VSCode, se não quiser alterar em nada, clique em "Próximo".
+Se quiser alterar algo, clique em "Procurar..." e escolha a pasta desejada, depois de selecionar clique em OK e depois em "Próximo".
+4. O instalador irá perguntar se você quer criar uma Pasta no Menu Iniciar, caso queira para ter facil acesso ao programa, clique em "Próximo".
+Caso não queria que ele crie um atalho no Menu Iniciar, marque na caixinha de "Não criar uma pasta no Menu Iniciar", e clique em "Próximo".7
+5. Nas parte de "Selecionar Tarefas Adicionais", marque todas as caixinhas e clique em "Próximo"
+6. Após fazer as etapas anteriores, clique no botão "Instalar" para instalar o Programa. (A instalação pode demorar um pouco dependendo da sua maquina)
+7. Após instalar, você sera redirecionado para a parte de "Completando o Assistente do Instalador do Visual Studio Code".
+Caso queria abrir o VSCode após instalar o programa, deixe a caixinha do "Iniciar o Visual Studio Code" marcada e clique em concluir.
+Caso NÃO queira abrir o VSCode após instalar o programa, desmarque a caixinha do "Iniciar o Visual Studio Code" marcada e clique em concluir.
