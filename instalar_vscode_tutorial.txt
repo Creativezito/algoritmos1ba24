@@ -4,3 +4,9 @@ Hoje iremos ver em uma explicação rapida sobre o que é o VSCode, e de como Ir
 EXPLICAÇÃO SOBRE O QUE É O VSCODE?
 O VSCode é um dos editores de código mais utilizados no mundo pela sua facilidade e pela sua praticidade de utilizar, com um enorme coleção de extensões de diferentes
 livrarias ou linguagens de programação, sendo também de Codigo Aberto.
+
+COMO BAIXAR O VSCODE:
+1. Primeiramente entre no site oficial do Visual Studio Code: "https://code.visualstudio.com/"
+2. Após ter carregado o site, clique em "Download for Windows"
+* Caso o navegador perguntar onde quer salvar o instalador, salve em "Downloads", caso não pergunte ignore essa etapa.
+* Caso o Instalador não baixe automaticamente, clique no botão "direct download link", caso se baixou corretamente, ignore essa etapa.
