@@ -1,2 +1,6 @@
 INTRODUÇÃO DO TUTORIAL DE VSCODE
 Hoje iremos ver em uma explicação rapida sobre o que é o VSCode, e de como Iremos Baixar ele no site Oficial do Programa e de como iremos Instalar esse Programa.
+
+EXPLICAÇÃO SOBRE O QUE É O VSCODE?
+O VSCode é um dos editores de código mais utilizados no mundo pela sua facilidade e pela sua praticidade de utilizar, com um enorme coleção de extensões de diferentes
+livrarias ou linguagens de programação, sendo também de Codigo Aberto.
