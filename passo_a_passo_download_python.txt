@@ -1,0 +1,7 @@
+PASSO A PASSO DE COMO FAZER O DOWNLOAD DO PYTHON
+
+1. Abra o site oficial do Python "https://www.python.org/"
+2. Guie o teu mouse na parte superior perto do icone do python na aba "Downloads"
+3. Ira aparecer a opção de clicar no botão "Python 3.12.3" ou uma versão mais atualizada, clique nele.
+4. Caso se o navegador perguntar onde você quer salvar esse arquivo, salve na pasta "Dowjloads", caso não pergunte, ignore essa etapa.
+5. Espere o Instalador baixar completamente.
