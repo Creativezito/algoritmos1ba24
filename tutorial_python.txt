@@ -27,4 +27,20 @@ e clique em next e depois em install.
 5. Espere o instalador instalar o python na sua maquina, pode demorar um pouco dependendo da maquina que você esteje usando.
 6. Após o programa ser instalado, ira aparecer "Setup was sucessful", quando aparecer clique em "Close". O Python foi instalado Corretamente!!!
 
+COMO CONFIGURAR O VIRTUALENV:
+1. Certifique-se se o VirtualEnv está instalado na maquina. Para verificar isso abra o CMD como Administrador e execute esse comando: "pip install virtualenv"
+* Caso ele executar e te avisar que ja está instalado, segue o passo 2. 
+* Caso ele começe a baixar, espere baixar e instalar o virtualenv para seguir o passo 2.
+2. Crie uma pasta especifica para o virtualenv, dentro ou fora do seu projeto.
+* Caso queria criar no CMD, use o comando "mkdir ou md" para criar uma pasta.
+* Caso queira criar uma pasta normalmente em cmd, crie em qualquer lugar do seu computador com o botão direito.
+3. Escreva esse comando no seu Prompt de Comando (CMD): virtualenv "nomedasuapastaaqui"/"nomedoprojetoaqui" (EXEMPLO: teste/projeto_teste)
+* Caso de erro de diretorio, use o comando "cd" para entrar no diretorio.
+4. De o comando "dir" na sua pasta do seu projeto para verificar se a pasta do virtualenv foi criada.
+5. Para ativar o VirtualEnv, escreva assim no seu Prompt de Comando (CMD): "nomedasuapastaqui!\"nomedoprojetoaqui"\Scripts\activate
+6. O seu VirtualENv está ativado para uso.
+
+
+
+
 
