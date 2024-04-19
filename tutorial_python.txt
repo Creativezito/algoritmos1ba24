@@ -1,0 +1,5 @@
+INTRODUÇÃO TUTORIAL DE PYTHON:
+Hoje nós vamos aprender sobre o que é a linguagem de programação chamada python, alguns pequenos conceitos sobre a linguagem de programação 
+e sobre o passo a passo da instalação do programa indicando o onde baixar e como instalar corretamente na sua maquina.
+
+
