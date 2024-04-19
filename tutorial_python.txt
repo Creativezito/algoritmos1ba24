@@ -13,4 +13,18 @@ PASSO A PASSO DE COMO FAZER O DOWNLOAD DO PYTHON
 4. Caso se o navegador perguntar onde você quer salvar esse arquivo, salve na pasta "Dowjloads", caso não pergunte, ignore essa etapa.
 5. Espere o Instalador baixar completamente.
 
+PASSO A PASSO DE INSTALAÇÃO DO PYTHON
+1. Abra o instalador que você acabou de baixar, geralmente ele será assim: 
+"python-3.12.2-amd64.exe", com o nome do python e a versão, exemplo do meu sendo "3.12.2".
+2. Quando o instalador abrir, direcione o seu mouse para o canto inferir e marque as caixinhas:
+"Add python.exe to PATH" e "Use admin privileges when installing py.exe"
+A primeira é FUNDAMENTAL PARA QUE O PYTHON SEJA USADA, e a segunda é opcional, mas para não ter riscos
+na hora de instalação, será perguntado o admin para ser instalado, caso não tenha acesso desmarque essa caixinha,
+caso tenha acesso, marque.
+3. Depois direcione o teu mouse para a aba Customize installation e clique nele.
+4. Verifique se todas as caixinhas estão ligadas, exceto a de administrador caso se você não tenha acesso (se tiver acesso deixe marcado)
+e clique em next e depois em install.
+5. Espere o instalador instalar o python na sua maquina, pode demorar um pouco dependendo da maquina que você esteje usando.
+6. Após o programa ser instalado, ira aparecer "Setup was sucessful", quando aparecer clique em "Close". O Python foi instalado Corretamente!!!
+
 
