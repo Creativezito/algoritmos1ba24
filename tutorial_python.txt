@@ -2,4 +2,8 @@ INTRODUÇÃO TUTORIAL DE PYTHON:
 Hoje nós vamos aprender sobre o que é a linguagem de programação chamada python, alguns pequenos conceitos sobre a linguagem de programação 
 e sobre o passo a passo da instalação do programa indicando o onde baixar e como instalar corretamente na sua maquina.
 
+EXPLICAÇÃO SOBRE O PYTHON?
+Python é uma linguagem de programação geralmente usada em aplicações da Web, desenvolvimento de software e outras coisas, sendo fácil de aprender e eficiente podendo ser executada em muitas plataformas, 
+tendo muitas poucas linhas de codigo comparados a outros tipos de linguagem de programação, e sendo open source e gratuito.
+
 
