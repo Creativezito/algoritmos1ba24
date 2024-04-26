@@ -1,0 +1,7 @@
+COMO CONFIGURAR O GIT REMOTE
+
+1. Para criar um novo remote, é preciso usar o comando: "git remote add"
+É necessario um nome do repositorio remoto, por exemplo: "teste"
+Uma url remota, por exemplo: "https://github.com/OWNER/REPOSITORY.git"
+2. Após criar, caso você faça alterações, use o comando "git add" pra adicionar o arquivo, 
+e o "git commit -m", mais o nome do commit, exemplo: "teste" (com as aspas), e git push para enviar o seu commit.
