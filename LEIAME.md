@@ -1,0 +1,1 @@
+Nessa pasta é o conjunto de todas as atividades feitas no portugol junto com o professor Dedylon, junto com os tutoriais basicos feitos junto com o professor rodrigo, ensinando como funciona entre o git e o github.
